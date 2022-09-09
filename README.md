@@ -1,5 +1,5 @@
-- 👋 Sup, I’m @shdowtail or.. Alex
-- 🌱 Currently learning C and Unix
+- 👋 Sup, I’m @shdowtail or.. Aleks
+- 🌱 Currently learning C, Unix and everything in-between
 -    Not much else to add right now :)
 
 <!---
