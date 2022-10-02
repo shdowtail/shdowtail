@@ -1,6 +1,6 @@
- Sup, I’m Alex
+Sup
  
- Currently learning C, Unix and everything in-between
+Doing a little bit of trolling in the C programming domain.
  
 Anything that I'll be making in the process will probably end up here.
 
