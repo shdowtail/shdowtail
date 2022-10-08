@@ -1,6 +1,6 @@
 Sup
  
-Doing a little bit of trolling in the C programming domain.
+Learning C because it is what it is.
  
 Anything that I'll be making in the process will probably end up here.
 
