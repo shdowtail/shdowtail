@@ -1,8 +1,4 @@
 Sup
- 
-Learning C because it is what it is.
- 
-Anything that I'll be making in the process will probably end up here.
 
 Have a good one
 
